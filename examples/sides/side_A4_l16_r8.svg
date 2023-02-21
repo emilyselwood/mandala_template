@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg color-interpolation="auto" color-rendering="auto" fill="none" fill-opacity="1" height="297.1270833333333mm" image-rendering="auto" shape-rendering="auto" stroke="black" stroke-dasharray="none" stroke-dashoffset="0" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-opacity="1" stroke-width="1mm" text-rendering="auto" viewBox="0, 0, 794, 1123" width="210.07916666666668mm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs id="genericDefs" />
+	<path d="M48.000 561.000 L48.000 48.000" fill="none" />
+	<path d="M48.000 561.000 L148.081 57.857" fill="none" />
+	<path d="M48.000 561.000 L244.317 87.050" fill="none" />
+	<path d="M48.000 561.000 L333.008 134.456" fill="none" />
+	<path d="M48.000 561.000 L410.746 198.254" fill="none" />
+	<path d="M48.000 561.000 L474.544 275.992" fill="none" />
+	<path d="M48.000 561.000 L521.950 364.683" fill="none" />
+	<path d="M48.000 561.000 L551.143 460.919" fill="none" />
+	<path d="M48.000 561.000 L561.000 561.000" fill="none" />
+	<path d="M48.000 561.000 L551.143 661.081" fill="none" />
+	<path d="M48.000 561.000 L521.950 757.317" fill="none" />
+	<path d="M48.000 561.000 L474.544 846.008" fill="none" />
+	<path d="M48.000 561.000 L410.746 923.746" fill="none" />
+	<path d="M48.000 561.000 L333.008 987.544" fill="none" />
+	<path d="M48.000 561.000 L244.317 1034.950" fill="none" />
+	<path d="M48.000 561.000 L148.081 1064.143" fill="none" />
+	<path d="M48.000 561.000 L48.000 1074.000" fill="none" />
+	<path d="M48.000 561.000 A0 0 0.000 0 1 48.000 561.000" fill="none" />
+	<path d="M48.000 497.000 A64 64 0.000 0 1 48.000 625.000" fill="none" />
+	<path d="M48.000 433.000 A128 128 0.000 0 1 48.000 689.000" fill="none" />
+	<path d="M48.000 369.000 A192 192 0.000 0 1 48.000 753.000" fill="none" />
+	<path d="M48.000 304.000 A257 257 0.000 0 1 48.000 818.000" fill="none" />
+	<path d="M48.000 240.000 A321 321 0.000 0 1 48.000 882.000" fill="none" />
+	<path d="M48.000 176.000 A385 385 0.000 0 1 48.000 946.000" fill="none" />
+	<path d="M48.000 112.000 A449 449 0.000 0 1 48.000 1010.000" fill="none" />
+	<path d="M48.000 48.000 A513 513 0.000 0 1 48.000 1074.000" fill="none" />
+</svg>

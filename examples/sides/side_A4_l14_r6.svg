@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg color-interpolation="auto" color-rendering="auto" fill="none" fill-opacity="1" height="297.1270833333333mm" image-rendering="auto" shape-rendering="auto" stroke="black" stroke-dasharray="none" stroke-dashoffset="0" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-opacity="1" stroke-width="1mm" text-rendering="auto" viewBox="0, 0, 794, 1123" width="210.07916666666668mm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs id="genericDefs" />
+	<path d="M48.000 561.000 L48.000 48.000" fill="none" />
+	<path d="M48.000 561.000 L162.153 60.862" fill="none" />
+	<path d="M48.000 561.000 L270.582 98.803" fill="none" />
+	<path d="M48.000 561.000 L367.850 159.920" fill="none" />
+	<path d="M48.000 561.000 L449.080 241.150" fill="none" />
+	<path d="M48.000 561.000 L510.197 338.418" fill="none" />
+	<path d="M48.000 561.000 L548.138 446.847" fill="none" />
+	<path d="M48.000 561.000 L561.000 561.000" fill="none" />
+	<path d="M48.000 561.000 L548.138 675.153" fill="none" />
+	<path d="M48.000 561.000 L510.197 783.582" fill="none" />
+	<path d="M48.000 561.000 L449.080 880.850" fill="none" />
+	<path d="M48.000 561.000 L367.850 962.080" fill="none" />
+	<path d="M48.000 561.000 L270.582 1023.197" fill="none" />
+	<path d="M48.000 561.000 L162.153 1061.138" fill="none" />
+	<path d="M48.000 561.000 L48.000 1074.000" fill="none" />
+	<path d="M48.000 561.000 A0 0 0.000 0 1 48.000 561.000" fill="none" />
+	<path d="M48.000 475.000 A86 86 0.000 0 1 48.000 647.000" fill="none" />
+	<path d="M48.000 390.000 A171 171 0.000 0 1 48.000 732.000" fill="none" />
+	<path d="M48.000 304.000 A257 257 0.000 0 1 48.000 818.000" fill="none" />
+	<path d="M48.000 219.000 A342 342 0.000 0 1 48.000 903.000" fill="none" />
+	<path d="M48.000 133.000 A428 428 0.000 0 1 48.000 989.000" fill="none" />
+	<path d="M48.000 48.000 A513 513 0.000 0 1 48.000 1074.000" fill="none" />
+</svg>
