@@ -129,7 +129,7 @@ fn generate(page: &Page, rings : u32, lines: u32, center: &str) -> esvg::Element
 fn create_document(page: &Page) -> esvg::Element {
     let mut doc = esvg::create_document(page);
     doc.set("stroke", "black");
-    doc.set("fill", "black");
+    doc.set("fill", "none");
     doc.set("fill-opacity", "1");
     doc.set("stroke-opacity", "1");
     doc.set("stroke-width", "1mm");
@@ -143,10 +143,6 @@ fn create_document(page: &Page) -> esvg::Element {
     doc.set("text-rendering", "auto");
     doc.set("shape-rendering", "auto");
     doc.set("image-rendering", "auto");
-    doc.set("font-weight", "normal");
-    doc.set("font-family", "Dialog");
-    doc.set("font-style", "normal");
-    doc.set("font-size", "12");
 
     let mut generic_defs = esvg::Element::new("defs");
     generic_defs.set("id", "genericDefs");
